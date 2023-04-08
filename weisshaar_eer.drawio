@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T10:50:14.170Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AKpeYc5YSwFjBDFQbWmC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T10:51:14.845Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="D3lY7WOX1BHinRVzVpYe" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="713" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -23,22 +23,22 @@
           <mxGeometry x="316" y="510" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-6" value="Schiffe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="60" width="100" height="50" as="geometry" />
+          <mxGeometry x="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-7" value="Papageien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="140" width="100" height="50" as="geometry" />
+          <mxGeometry x="500" y="-30" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-8" value="PiratInnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="170" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-9" value="Rumsorten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251" y="190" width="100" height="50" as="geometry" />
+          <mxGeometry x="88" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-10" value="Inseln" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="377" y="80" width="100" height="50" as="geometry" />
+          <mxGeometry x="470" y="280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-11" value="Geisterschiffe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="96" y="220" width="114" height="50" as="geometry" />
+          <mxGeometry x="-33" y="50" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-12" value="Schatzinseln" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="88" y="280" width="114" height="50" as="geometry" />
@@ -50,13 +50,19 @@
           <mxGeometry x="540" y="90" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-16" value="Name" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251" y="30" width="99" height="50" as="geometry" />
+          <mxGeometry x="30" y="-90" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-17" value="Segel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="261" y="100" width="99" height="50" as="geometry" />
+          <mxGeometry x="160" y="-90" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-18" value="Tiefe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="377" y="-20" width="99" height="50" as="geometry" />
+          <mxGeometry x="287.5" y="-90" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyaqefDPUZYXlSPB02nK-19" value="Geister" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="-20" width="99" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyaqefDPUZYXlSPB02nK-20" value="Geisterstunde" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-132" y="110" width="99" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
