@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T10:44:22.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4bJdqMBKTQ0LrT1CWlXV" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T10:48:28.962Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SxgjQpcEOfbd_tJrC2Fz" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="409" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="UyaqefDPUZYXlSPB02nK-10" value="Inseln" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="342" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyaqefDPUZYXlSPB02nK-11" value="Geisterschiffe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="96" y="220" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyaqefDPUZYXlSPB02nK-12" value="Schatzinseln" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="88" y="280" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UyaqefDPUZYXlSPB02nK-13" value="Basisinseln" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="81" y="360" width="109" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
